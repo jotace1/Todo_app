@@ -51,10 +51,10 @@
 <!-- ABOUT THE PROJECT -->
 ## :mag_right: About The Project
 <p align="center">
-<img src="assets/shot1.png" width="300" alt="Logo">
-<img src="assets/shot2.png" width="300" alt="Logo">
-<img src="assets/shot4.png" width="300" alt="Logo">
-<img src="assets/shot.png" width="300" alt="Logo">
+<img src="assets/shot1.png" width="400" alt="Logo">
+<img src="assets/shot2.png" width="400" alt="Logo">
+<img src="assets/shot4.png" width="400" alt="Logo">
+<img src="assets/shot.png" width="400" alt="Logo">
 
 </p>
 
